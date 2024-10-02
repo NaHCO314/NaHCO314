@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is nahco314, I am 17 years old, Japanese and I live in Tokyo.
+
+### Languages
+I'm good at Python, Rust and TypeScript (I don't like TS tho).
+
+In terms of natural language, (of course) I speak Japanese. I understand some English, but basically use translation.
+
+### Interests
+I am interested in processing (parsing, formatting, typing, static analyzing) programming languages.
