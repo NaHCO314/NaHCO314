@@ -24,3 +24,9 @@ In terms of natural language, (of course) I speak Japanese. I understand some En
 
 ### Interests
 I am interested in processing (parsing, formatting, typing, static analyzing) programming languages.
+
+### Socials
+
+BlueSky(English): https://bsky.app/profile/nahco314.bsky.social
+
+Twitter(Japanese): https://x.com/nahco314_pub
