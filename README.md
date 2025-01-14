@@ -27,7 +27,7 @@ I am interested in processing (parsing, formatting, typing, static analyzing) pr
 
 ### Socials
 
-Twitter(English): https://x.com/nahco314_
+Twitter(English): https://x.com/nahco314_/
 
 Twitter(Japanese): https://x.com/nahco314_pub
 
