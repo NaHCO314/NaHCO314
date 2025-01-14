@@ -27,6 +27,8 @@ I am interested in processing (parsing, formatting, typing, static analyzing) pr
 
 ### Socials
 
-BlueSky(English): https://bsky.app/profile/nahco314.bsky.social
+Twitter(English): https://x.com/nahco314_
 
 Twitter(Japanese): https://x.com/nahco314_pub
+
+BlueSky(English): https://bsky.app/profile/nahco314.bsky.social
